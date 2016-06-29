@@ -1,0 +1,22 @@
+{
+  "name": "wechat-redpack",
+  "version": "1.0.5",
+  "description": "使用 Node.js 调用微信发送红包",
+  "main": "./lib/redpack.js",
+  "dependencies": {
+    "request": "^2.67.0",
+    "xml2js": "^0.4.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+        "微信红包",
+        "weixin",
+        "wechat",
+        "redpack"
+    ],
+  "author": "lizhi",
+  "license": "MIT"
+}
